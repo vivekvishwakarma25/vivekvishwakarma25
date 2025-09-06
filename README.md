@@ -70,7 +70,7 @@ I specialize in **Java backend development** with hands-on experience in **Sprin
 
 ## 📫 Connect with Me
 
-* 📧 Email: [vivek.vishwakarma@email.com](mailto:vivek.vishwakarma@email.com)
+* 📧 Email: [vivekvishwakarmaa001@email.com](mailto:vivekvishwakarmaa001@email.com)
 * 🔗 [LinkedIn](https://linkedin.com/in/vivekvishwakarma25)
 * 💻 [GitHub](https://github.com/vivekvishwakarma25)
 
