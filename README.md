@@ -1,7 +1,7 @@
 
 # 💻 Vivek Vishwakarma
 
-🚀 *Java Full Stack Developer | Spring Boot | Elasticsearch | Docker | React.js*
+🚀 *Java Backend Developer | Spring Boot | Elasticsearch | Docker | React.js*
 
 📍 India | 🎓 BCA @ Dr. Ram Manohar Lohia Avadh University
 🔗 [LinkedIn](https://linkedin.com/in/vivekvishwakarma25) | [Portfolio](#) | [GitHub Projects](https://github.com/vivekvishwakarma25)
