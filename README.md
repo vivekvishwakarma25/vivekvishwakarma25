@@ -4,7 +4,7 @@
 🚀 *Java Backend Developer | Spring Boot | Elasticsearch | Docker | React.js*
 
 📍 India | 🎓 BCA @ Dr. Ram Manohar Lohia Avadh University
-🔗 [LinkedIn](https://linkedin.com/in/vivekvishwakarma25) | [Portfolio](#) | [GitHub Projects](https://github.com/vivekvishwakarma25)
+🔗 [LinkedIn](https://linkedin.com/in/vivek-vishwakarma25) | [Portfolio](#) | [GitHub Projects](https://github.com/vivekvishwakarma25)
 
 ---
 
@@ -71,7 +71,7 @@ I specialize in **Java backend development** with hands-on experience in **Sprin
 ## 📫 Connect with Me
 
 * 📧 Email: [vivekvishwakarmaa001@email.com](mailto:vivekvishwakarmaa001@email.com)
-* 🔗 [LinkedIn](https://linkedin.com/in/vivekvishwakarma25)
+* 🔗 [LinkedIn](https://linkedin.com/in/vivek-vishwakarma25)
 * 💻 [GitHub](https://github.com/vivekvishwakarma25)
 
 ---
